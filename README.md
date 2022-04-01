@@ -1,1 +1,1 @@
-# Distribuci-n-binomial
+# Distribucion-binomial
